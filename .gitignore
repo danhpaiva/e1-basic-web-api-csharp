@@ -1,3 +1,8 @@
+# Colocar somente o nome da pasta ou o caminho:
+# CadastroNomeWebAPI/packages
+# ou 
+# packages
+
 *.suo
 *.user
 _ReSharper.*
